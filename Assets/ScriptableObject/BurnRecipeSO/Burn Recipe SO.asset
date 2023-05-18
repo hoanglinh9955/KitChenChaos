@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa5de27442c98c3438ab3a19535f25e3, type: 3}
+  m_Name: Burn Recipe SO
+  m_EditorClassIdentifier: 
+  input: {fileID: 11400000, guid: 7f27a3e9946f33f4494b6e580d4609ef, type: 2}
+  output: {fileID: 11400000, guid: 4675f99de7069b943aa5d80d2f56b944, type: 2}
+  timeBurn: 5
